@@ -4,6 +4,9 @@ __pycache__/
 *$py.class
 ._*
 
+# Data
+/books
+
 # C extensions
 *.so
 
